@@ -1,0 +1,43 @@
+.intestazione{
+background-color: rgb(204, 50, 127);
+text-align: center;
+color: black;
+ padding: 16px;
+
+border-style: solid;
+border-color: black;
+border-width: 5px;
+border-radius: 10px;
+}
+
+
+.link-navigazione{
+    color: black;
+    padding: 4px;
+    font-weight: bold;
+    font-size: large;
+} 
+
+.cavallo{
+    position: absolute; 
+    top: 300px;
+    left: 700px;
+} 
+
+.nome-bio{
+    color: black;
+    background-color: rgb(211, 0, 207);
+    text-align: center;
+    font-size: x-large;
+}
+
+.testo{
+    text-align: center;
+    font-size: x-large;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
